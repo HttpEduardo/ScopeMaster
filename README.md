@@ -10,7 +10,7 @@
    - [Lendo do arquivo de configuração](#reading-from-config-file)
    - [Usando com outras ferramentas](#encadeamento-com-outras-ferramentas)
 
-## - Requerimentos de instalação:
+##  Requerimentos de instalação:
 
 Instalando a ferramenta ->
 
@@ -29,7 +29,7 @@ Usando git clone
 <br>
 
 
-## - Uso e Explicação:
+##  Uso e Explicação:
 
 Em seu processo de reconhecimento, ao fazer reconhecimento de subdomínio e reconhecimento de URL, você pode obter URLs que não estão no escopo, como: "bit.ly", "twitter.com", urls aleatórios ou subdomínios. Aí vem o scopein, ele só aparece no terminal nas urls do escopo
 
